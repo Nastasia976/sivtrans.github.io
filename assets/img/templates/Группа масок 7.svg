@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="198" viewBox="0 0 960 198">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_447" data-name="Прямоугольник 447" width="960" height="198" transform="translate(0 -0.061)" fill="#f3f4f6"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_7" data-name="Группа масок 7" transform="translate(0 0.061)" clip-path="url(#clip-path)">
+    <ellipse id="Эллипс_17" data-name="Эллипс 17" cx="129.5" cy="51.5" rx="129.5" ry="51.5" transform="translate(832 198.939)" fill="#152c73"/>
+    <g id="Сгруппировать_351" data-name="Сгруппировать 351" transform="translate(344 40)">
+      <g id="Сгруппировать_26" data-name="Сгруппировать 26">
+        <g id="Сгруппировать_167" data-name="Сгруппировать 167">
+          <text id="menu_point" transform="translate(0 18.939)" fill="#0f172a" font-size="20" font-family="ProximaNova-Semibold, Proxima Nova" font-weight="600"><tspan x="0" y="0">Транспортное</tspan></text>
+          <text id="menu_point-2" data-name="menu_point" transform="translate(0 42.939)" fill="#64748b" font-size="15" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">холодильное оборудование</tspan></text>
+        </g>
+        <g id="more_info" transform="translate(0 66.939)">
+          <text id="menu_point-3" data-name="menu_point" transform="translate(0 14)" fill="#1d4ed8" font-size="15" font-family="ProximaNova-Regular, Proxima Nova"><tspan x="0" y="0">Подробнее</tspan></text>
+          <path id="long-arrow-right" d="M7.637,128.082l-.174.166a.272.272,0,0,0,0,.4L9.524,130.6H.295a.288.288,0,0,0-.295.281v.234a.288.288,0,0,0,.295.281H9.524l-2.061,1.956a.272.272,0,0,0,0,.4l.174.166a.3.3,0,0,0,.417,0l2.86-2.719a.272.272,0,0,0,0-.4l-2.86-2.719A.3.3,0,0,0,7.637,128.082Z" transform="translate(86 -121)" fill="#1d4ed8"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
